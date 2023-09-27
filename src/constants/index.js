@@ -174,7 +174,7 @@ import {
     {
       testimonial:
         "I thought it was impossible to make a website as beautiful as our product, but Mohak proved me wrong.",
-      name: "Abhay Yadav",
+      name: "Sara Lee",
       designation: "CFO",
       company: "Acme Co",
       image: "https://randomuser.me/api/portraits/women/4.jpg",
@@ -190,7 +190,7 @@ import {
     {
       testimonial:
         "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-      name: "Varun Saxena",
+      name: "Lisa Wang",
       designation: "CTO",
       company: "456 Enterprises",
       image: "https://randomuser.me/api/portraits/women/6.jpg",
