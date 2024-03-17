@@ -169,12 +169,12 @@ const projects = [
       },
     ],
     image: carrent,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/quanta2k/SoulWax--A-Music-App",
   },
   {
-    name: "Rock Paper Scissor",
+    name: "Blogging Website",
     description:
-      " Test your luck and strategy with this classic game! Choose between rock, paper, or scissors, and challenge the computer to see who comes out victorious",
+      " A simple blogging website where users can create, edit, and delete blogs. It is built using Node.js, Hono,Cloudfare workers and Postgress. It also includes user authentication and authorization.",
     tags: [
       {
         name: "html",
@@ -190,7 +190,7 @@ const projects = [
       },
     ],
     image: jobit,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/quanta2k/BlogApp",
   },
   {
     name: "PortFolio Website",
@@ -211,7 +211,7 @@ const projects = [
       },
     ],
     image: tripguide,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/quanta2k/reactporfolio",
   },
 ];
 
