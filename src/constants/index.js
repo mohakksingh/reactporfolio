@@ -93,8 +93,8 @@ const technologies = [
     icon: mongodb,
   },
   {
-    name: "Three JS",
-    icon: threejs,
+    name: "Docker",
+    icon: docker,
   },
   {
     name: "git",
@@ -151,22 +151,26 @@ const testimonials = [
 
 const projects = [
   {
-    name: "SoulWax",
+    name: "Video Calling App",
     description:
-      "Web-based platform that allows users to search, listen, and manage music from iTunes API, providing a convenient and efficient solution for music streaming needs.",
+      "Web-based platform that allows users to create instant , schedule and join meetings providing a convenient and efficient solution for video calling with multiple users.",
     tags: [
       {
-        name: "react",
+        name: "nextjs",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "web-streamSDK",
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "clerk",
         color: "pink-text-gradient",
       },
+      {
+        name:"shadcn",
+        color:"blue-text-gradient"
+      }
     ],
     image: carrent,
     source_code_link: "https://github.com/quanta2k/SoulWax--A-Music-App",
@@ -177,15 +181,15 @@ const projects = [
       " A simple blogging website where users can create, edit, and delete blogs. It is built using Node.js, Hono,Cloudfare workers and Postgress. It also includes user authentication and authorization.",
     tags: [
       {
-        name: "html",
+        name: "tailwindCSS",
         color: "blue-text-gradient",
       },
       {
-        name: "javascript",
+        name: "typescript",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "postgresSQL",
         color: "pink-text-gradient",
       },
     ],
@@ -193,20 +197,20 @@ const projects = [
     source_code_link: "https://github.com/quanta2k/BlogApp",
   },
   {
-    name: "PortFolio Website",
+    name: "E-commerce Website",
     description:
-      "Discover our portfolio site infused with captivating 3D elements, all brought to life with Framer. Immerse yourself in innovation, explore our work, and experience design excellence firsthand.",
+      "An Ecommerce website where users can view products, add them to cart, and make payments.It also has an admin dashboard in which admin can add, delete,and update products.",
     tags: [
       {
         name: "reactjs",
         color: "blue-text-gradient",
       },
       {
-        name: "threejs",
+        name: "backend development",
         color: "green-text-gradient",
       },
       {
-        name: "framer",
+        name: "sass",
         color: "pink-text-gradient",
       },
     ],
