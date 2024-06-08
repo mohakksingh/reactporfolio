@@ -173,7 +173,7 @@ const projects = [
       }
     ],
     image: carrent,
-    source_code_link: "https://github.com/quanta2k/SoulWax--A-Music-App",
+    source_code_link: "https://github.com/mohakksingh/video_call_app",
   },
   {
     name: "Blogging Website",
@@ -194,7 +194,7 @@ const projects = [
       },
     ],
     image: jobit,
-    source_code_link: "https://github.com/quanta2k/BlogApp",
+    source_code_link: "https://github.com/mohakksingh/BlogApp",
   },
   {
     name: "E-commerce Website",
@@ -215,7 +215,7 @@ const projects = [
       },
     ],
     image: tripguide,
-    source_code_link: "https://github.com/quanta2k/reactporfolio",
+    source_code_link: "https://github.com/mohakksingh/project",
   },
 ];
 
