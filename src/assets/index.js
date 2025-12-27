@@ -34,6 +34,7 @@ import gaminghome from "./gaminghome.png"
 import prepwise from "./prepwise.png"
 import growero from "./company/growero.png"
 import bosscoder from "./company/bosscoder.png"
+import landing from "./landing.png"
 
 export {
   logo,
@@ -67,5 +68,6 @@ export {
   growero,
   gaminghome,
   prepwise,
-  bosscoder
+  bosscoder,
+  landing
 };

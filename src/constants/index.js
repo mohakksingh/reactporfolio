@@ -27,6 +27,7 @@ import {
   prepwise,
   growero,
   bosscoder,
+  landing,
 } from "../assets";
 
 export const navLinks = [
@@ -253,6 +254,31 @@ const projects = [
     ],
     image: carrent,
     source_code_link: "https://github.com/mohakksingh/video_call_app",
+  },
+  {
+    name: "Quanta INC",
+    description:
+      "A landing page for Quanta Inc, a company that provides AI-powered solutions for businesses to optimize their operations and enhance customer experiences.",
+    tags: [
+      {
+        name: "nextjs",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "aceternity",
+        color: "green-text-gradient",
+      },
+      {
+        name: "framermotion",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "tailwindCSS",
+        color: "blue-text-gradient",
+      },
+    ],
+    image: landing,
+    source_code_link: "https://landingpage-delta-one.vercel.app/",
   },
   {
     name: "Blogging Website",
