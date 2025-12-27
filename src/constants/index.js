@@ -23,6 +23,10 @@ import {
   jobit,
   tripguide,
   threejs,
+  gaminghome,
+  prepwise,
+  growero,
+  bosscoder,
 } from "../assets";
 
 export const navLinks = [
@@ -46,7 +50,7 @@ const services = [
     icon: web,
   },
   {
-    title: "UI Design",
+    title: "Devops",
     icon: mobile,
   },
   {
@@ -120,6 +124,31 @@ const experiences = [
       "Participating in code reviews and providing constructive feedback to other developers.",
     ],
   },
+  {
+    title: "Full Stack and CI/CD Developer Intern",
+    company_name: "Growero.io",
+    icon: growero,
+    iconBg: "#383E56",
+    date: "July 2024 - November 2024",
+    points: [
+      "Implemented CI/CD pipeline, reducing deployment time by 30% and increasing development efficiency by 25%. Conducted unit testing to improve code quality and reliability. Created and optimized Docker images for containerized application deployment.",
+      "Worked with AWS services, specifically EC2 for scalable compute capacity and S3 for cloud storage solutions.",
+      "Integrated AI-powered output generation, improving user satisfaction by 30% and increasing product functionality by 20%.",
+      "Built RelationsAI, a full-stack platform providing WhatsApp Business users with insights on message charges, delivery metrics, and contact history, leading to a 5% increase in user engagement.",
+    ],
+  },
+  {
+    title: "Software Developer Intern",
+    company_name: "Bosscoder Academy",
+    icon: bosscoder,
+    iconBg: "#383E56",
+    date: "February 2025 - July 2025",
+    points: [
+      "Developed a website from scratch using Next.js , Framer Motion and Tailwind CSS with several pages .",
+      "Implemented a price calculator feature that allows users to select options and receive an estimated price, improving functionality by 20%.",
+      "Integrated Firebase for efficient data storage and connected it to Google Sheets for better visibility and management.",
+    ],
+  },
 ];
 
 const testimonials = [
@@ -151,6 +180,56 @@ const testimonials = [
 
 const projects = [
   {
+    name: "PrepWise",
+    description:
+      "An AI-powered platform that generates tailored practice questions and detailed explanations for students preparing for competitive exams, enhancing their learning experience and exam readiness.",
+    tags: [
+      {
+        name: "nextjs",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "vapiAi",
+        color: "green-text-gradient",
+      },
+      {
+        name: "firebase",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "typescript",
+        color: "blue-text-gradient",
+      },
+    ],
+    image: prepwise,
+    source_code_link: "https://github.com/mohakksingh/video_call_app",
+  },
+  {
+    name: "Gaming Website Homepage",
+    description:
+      "Gaming Home is a responsive gaming website homepage built with React, Tailwind CSS and GSAP, featuring modern design, interactive elements, and amazing animations to enhance user engagement.",
+    tags: [
+      {
+        name: "Reactjs",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Gsap",
+        color: "green-text-gradient",
+      },
+      {
+        name: "tailwindCSS",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "eslint",
+        color: "blue-text-gradient",
+      },
+    ],
+    image: gaminghome,
+    source_code_link: "https://github.com/mohakksingh/awards",
+  },
+  {
     name: "Video Calling App",
     description:
       "Web-based platform that allows users to create instant , schedule and join meetings providing a convenient and efficient solution for video calling with multiple users.",
@@ -168,9 +247,9 @@ const projects = [
         color: "pink-text-gradient",
       },
       {
-        name:"shadcn",
-        color:"blue-text-gradient"
-      }
+        name: "shadcn",
+        color: "blue-text-gradient",
+      },
     ],
     image: carrent,
     source_code_link: "https://github.com/mohakksingh/video_call_app",

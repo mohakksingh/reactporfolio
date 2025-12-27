@@ -30,6 +30,10 @@ import tesla from "./company/tesla.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import gaminghome from "./gaminghome.png"
+import prepwise from "./prepwise.png"
+import growero from "./company/growero.png"
+import bosscoder from "./company/bosscoder.png"
 
 export {
   logo,
@@ -60,4 +64,8 @@ export {
   carrent,
   jobit,
   tripguide,
+  growero,
+  gaminghome,
+  prepwise,
+  bosscoder
 };
